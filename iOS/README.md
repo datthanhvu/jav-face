@@ -1,4 +1,4 @@
-# missing-persons
+# missing-JAV Idol
 trying out Microsoft's cognitive services in an iOS app, specifically the face detection/recognition APIs
 
 #instructions
