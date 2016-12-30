@@ -1,2 +1,2 @@
-# jav-face
-Nhận diện khuôn mặt JAV idol
+# Ứng dụng nhận diện khuôn mặt JAV idol 
+
